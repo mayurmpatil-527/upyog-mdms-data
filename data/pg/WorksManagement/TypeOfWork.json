@@ -1,0 +1,46 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "TypeOfWork": [
+    {
+      "code": "ORIGINAL",
+      "name": "Original",
+      "active": true
+    },
+    {
+      "code": "IMPROVEMENTS_UPGRADATION",
+      "name": "Improvements / Upgradation",
+      "active": true
+    },
+    {
+      "code": "MAINTENANCE",
+      "name": "Maintenance (Annual / Routine)",
+      "active": true
+    },
+    {
+      "code": "RESTORATION",
+      "name": "Restoration",
+      "active": true
+    },
+    {
+      "code": "SPECIAL_REPAIRS",
+      "name": "Special Repairs",
+      "active": true
+    },
+    {
+      "code": "CLOSURE_PERIOD_WORKS",
+      "name": "Closure Period Works",
+      "active": true
+    },
+    {
+      "code": "REPAIRS",
+      "name": "Repairs",
+      "active": true
+    },
+    {
+      "code": "LABOUR_CONTRACT_WORKS",
+      "name": "Labour Contract Works",
+      "active": true
+    }
+  ]
+}

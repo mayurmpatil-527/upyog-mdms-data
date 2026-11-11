@@ -1,0 +1,20 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "ActionPlanConfig": [
+    {
+      "code": "DEFAULT",
+      "verificationRequired": true,
+      "seniorApprovalFundSources": [
+        "GOVT_GRANT",
+        "PARTIAL"
+      ],
+      "makerCheckerSeparation": true,
+      "fullAllocationRequired": true,
+      "enforceComponentCount": true,
+      "technicalSanctionRequired": true,
+      "maxSupportingDocuments": 5,
+      "workflowEnabled": null
+    }
+  ]
+}

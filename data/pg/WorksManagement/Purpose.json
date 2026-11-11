@@ -1,0 +1,36 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "Purpose": [
+    {
+      "code": "DEVELOPMENT_WORK",
+      "name": "Development Work",
+      "active": true
+    },
+    {
+      "code": "MAN_POWER_SERVICES",
+      "name": "Man Power Services",
+      "active": true
+    },
+    {
+      "code": "PROCUREMENT_OF_MATERIALS",
+      "name": "Procurement of Materials",
+      "active": true
+    },
+    {
+      "code": "PROCUREMENT_OF_MACHINERIES",
+      "name": "Procurement of Machineries",
+      "active": true
+    },
+    {
+      "code": "PROCUREMENT_OF_VEHICLES",
+      "name": "Procurement of Vehicles",
+      "active": true
+    },
+    {
+      "code": "OTHERS",
+      "name": "Others",
+      "active": true
+    }
+  ]
+}

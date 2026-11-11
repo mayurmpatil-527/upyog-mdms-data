@@ -1,0 +1,26 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "ApprovingDepartment": [
+    {
+      "code": "URBAN_DEVELOPMENT",
+      "name": "Housing & Urban Development",
+      "active": true
+    },
+    {
+      "code": "FINANCE",
+      "name": "Finance",
+      "active": true
+    },
+    {
+      "code": "PUBLIC_WORKS",
+      "name": "Public Works",
+      "active": true
+    },
+    {
+      "code": "MUNICIPAL_ADMINISTRATION",
+      "name": "Municipal Administration",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "RecommendedBy": [
+    {
+      "code": "ULB_INITIATIVE",
+      "name": "ULB Initiative",
+      "active": true
+    },
+    {
+      "code": "MP",
+      "name": "MP",
+      "active": true
+    },
+    {
+      "code": "MLA",
+      "name": "MLA",
+      "active": true
+    },
+    {
+      "code": "OTHERS",
+      "name": "Others",
+      "active": true
+    }
+  ]
+}

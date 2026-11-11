@@ -6037,6 +6037,16 @@
       "isActualDemand": false,
       "order": "3",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WMS.ACTION_PLAN",
+      "name": "Action Plan Processing Fee",
+      "code": "WMS_AP_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     }
   ]
 }

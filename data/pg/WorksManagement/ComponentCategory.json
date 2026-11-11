@@ -1,0 +1,52 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "ComponentCategory": [
+    {
+      "code": "MANPOWER",
+      "name": "Manpower",
+      "active": true,
+      "subCategories": []
+    },
+    {
+      "code": "GOODS",
+      "name": "Goods",
+      "active": true,
+      "subCategories": [
+        {
+          "code": "ELECTRONIC_GADGETS",
+          "name": "Electronic Gadgets",
+          "active": true
+        },
+        {
+          "code": "FURNITURE",
+          "name": "Furnitures",
+          "active": true
+        },
+        {
+          "code": "BUILDING_MATERIALS",
+          "name": "Building Materials",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "SERVICES",
+      "name": "Services",
+      "active": true,
+      "subCategories": [
+        {
+          "code": "CLOUD",
+          "name": "Cloud",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "BOTH",
+      "name": "Both (Goods and Services)",
+      "active": true,
+      "subCategories": []
+    }
+  ]
+}

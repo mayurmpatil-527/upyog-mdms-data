@@ -1126,6 +1126,26 @@
       "code": "CHB_REFUND_APPROVER",
       "name": "CHB Refund Approver",
       "description": "Role for approving CHB refund requests"
-    } 
+    },
+    {
+      "code": "WMS_CREATOR",
+      "name": "WMS Creator",
+      "description": "ULB maker: creates, edits, submits and withdraws Action Plans"
+    },
+    {
+      "code": "WMS_VERIFIER",
+      "name": "WMS Verifier",
+      "description": "Checks entered data against the approval evidence"
+    },
+    {
+      "code": "WMS_APPROVER",
+      "name": "WMS Approver",
+      "description": "Senior officer who approves, returns or rejects"
+    },
+    {
+      "code": "WMS_VIEWER",
+      "name": "WMS Viewer",
+      "description": "Search, view and export within jurisdiction"
+    }
   ]
 }

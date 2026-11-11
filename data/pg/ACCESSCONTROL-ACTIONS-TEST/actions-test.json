@@ -30379,6 +30379,78 @@
   "serviceCode": "upyog-aggregation-service",
   "code": "null",
   "path": ""
+},
+{
+  "id": 4724,
+  "name": "Create Action Plan",
+  "url": "/works-management-service/action-plan/v1/_create",
+  "displayName": "Create Action Plan",
+  "orderNumber": 0,
+  "parentModule": "",
+  "enabled": false,
+  "serviceCode": "works-management-service",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4725,
+  "name": "Update Action Plan",
+  "url": "/works-management-service/action-plan/v1/_update",
+  "displayName": "Update Action Plan",
+  "orderNumber": 0,
+  "parentModule": "",
+  "enabled": false,
+  "serviceCode": "works-management-service",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4726,
+  "name": "Search Action Plan",
+  "url": "/works-management-service/action-plan/v1/_search",
+  "displayName": "Search Action Plan",
+  "orderNumber": 0,
+  "parentModule": "",
+  "enabled": false,
+  "serviceCode": "works-management-service",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4727,
+  "name": "Estimate Action Plan",
+  "url": "/works-management-calculator/v1/_estimate",
+  "displayName": "Estimate Action Plan",
+  "orderNumber": 0,
+  "parentModule": "",
+  "enabled": false,
+  "serviceCode": "works-management-calculator",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4728,
+  "name": "Calculate Action Plan",
+  "url": "/works-management-calculator/v1/_calculate",
+  "displayName": "Calculate Action Plan",
+  "orderNumber": 0,
+  "parentModule": "",
+  "enabled": false,
+  "serviceCode": "works-management-calculator",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4729,
+  "name": "Update Action Plan Demand",
+  "url": "/works-management-calculator/v1/_updatedemand",
+  "displayName": "Update Action Plan Demand",
+  "orderNumber": 0,
+  "parentModule": "",
+  "enabled": false,
+  "serviceCode": "works-management-calculator",
+  "code": "null",
+  "path": ""
 }
   ]
 }
