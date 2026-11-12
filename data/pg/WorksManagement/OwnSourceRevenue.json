@@ -1,0 +1,36 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "OwnSourceRevenue": [
+    {
+      "code": "PROPERTY_TAX",
+      "name": "Property Tax",
+      "active": true
+    },
+    {
+      "code": "TRADE_LICENSE",
+      "name": "Trade License Fee",
+      "active": true
+    },
+    {
+      "code": "WATER_CHARGES",
+      "name": "Water Charges",
+      "active": true
+    },
+    {
+      "code": "ADVERTISEMENT_TAX",
+      "name": "Advertisement Tax",
+      "active": true
+    },
+    {
+      "code": "MUNICIPAL_PROPERTY_RENT",
+      "name": "Rent on Municipal Properties",
+      "active": true
+    },
+    {
+      "code": "OTHERS",
+      "name": "Other Own Revenue",
+      "active": true
+    }
+  ]
+}

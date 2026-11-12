@@ -1,0 +1,21 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "FundSource": [
+    {
+      "code": "GOVT_GRANT",
+      "name": "Govt. Grants",
+      "active": true
+    },
+    {
+      "code": "OSR",
+      "name": "Own Source Fund",
+      "active": true
+    },
+    {
+      "code": "PARTIAL",
+      "name": "Partial (Govt. Grants + OSR)",
+      "active": true
+    }
+  ]
+}

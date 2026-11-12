@@ -1,0 +1,17 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "FeeConfig": [
+    {
+      "code": "WMS_AP_PROCESSING_FEE",
+      "businessService": "WMS.ACTION_PLAN",
+      "taxHeadCode": "WMS_AP_PROCESSING_FEE",
+      "calculationType": "PERCENTAGE",
+      "value": 0,
+      "minAmount": null,
+      "maxAmount": null,
+      "applicableFundSources": [],
+      "active": false
+    }
+  ]
+}

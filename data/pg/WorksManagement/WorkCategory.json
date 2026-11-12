@@ -1,0 +1,54 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "WorkCategory": [
+    {
+      "code": "BUILDINGS",
+      "name": "Buildings",
+      "active": true,
+      "attributes": []
+    },
+    {
+      "code": "FLYOVERS",
+      "name": "Flyovers",
+      "active": true,
+      "attributes": []
+    },
+    {
+      "code": "BRIDGES",
+      "name": "Bridges",
+      "active": true,
+      "attributes": []
+    },
+    {
+      "code": "CANALS",
+      "name": "Canals (including Linings and Structures)",
+      "active": true,
+      "attributes": []
+    },
+    {
+      "code": "DAMS_ALLIED_WORKS",
+      "name": "Dams & Allied Works",
+      "active": true,
+      "attributes": []
+    },
+    {
+      "code": "WATER_SUPPLY_SEWAGE_LINES",
+      "name": "Water supply / Sewage lines",
+      "active": true,
+      "attributes": []
+    },
+    {
+      "code": "POWER_STATIONS",
+      "name": "Power Stations",
+      "active": true,
+      "attributes": []
+    },
+    {
+      "code": "WATER_SEWAGE_TREATMENT_TANKS",
+      "name": "Water / sewage treatment tanks",
+      "active": true,
+      "attributes": []
+    }
+  ]
+}

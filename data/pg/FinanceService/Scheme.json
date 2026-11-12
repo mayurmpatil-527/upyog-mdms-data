@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "Scheme": [
+    {
+      "code": "FINANCE_COMMISSION",
+      "name": "Finance Commission",
+      "active": true,
+      "subSchemes": [
+        {
+          "code": "STREET_LIGHTS",
+          "name": "Street Lights",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "MUNICIPAL_WORKS",
+      "name": "Municipal Works",
+      "active": true,
+      "subSchemes": [
+        {
+          "code": "MUNICIPAL_ROAD_WORKS",
+          "name": "Municipal Road Works",
+          "active": true
+        }
+      ]
+    },
+    {
+      "code": "FC_15",
+      "name": "15th Finance Commission",
+      "active": true,
+      "subSchemes": []
+    },
+    {
+      "code": "NATIONAL_HEALTH_SCHEME",
+      "name": "National Health Scheme",
+      "active": true,
+      "subSchemes": []
+    },
+    {
+      "code": "NSDP",
+      "name": "National Slum Development Program (NSDP)",
+      "active": true,
+      "subSchemes": []
+    },
+    {
+      "code": "PMAY",
+      "name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "active": true,
+      "subSchemes": []
+    },
+    {
+      "code": "SBM",
+      "name": "Swachh Bharat Mission (SBM)",
+      "active": true,
+      "subSchemes": []
+    }
+  ]
+}

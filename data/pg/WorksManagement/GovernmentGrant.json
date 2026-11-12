@@ -1,0 +1,31 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "GovernmentGrant": [
+    {
+      "code": "CENTRAL_GRANT",
+      "name": "Central Grant",
+      "active": true
+    },
+    {
+      "code": "STATE_GOVT_GRANT",
+      "name": "State Government Grant",
+      "active": true
+    },
+    {
+      "code": "OTHER_GOVT_AGENCIES",
+      "name": "Other Government Agencies",
+      "active": true
+    },
+    {
+      "code": "WELFARE_BODIES",
+      "name": "Welfare Bodies",
+      "active": true
+    },
+    {
+      "code": "OTHERS",
+      "name": "Others",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "District": [
+    {
+      "code": "AMRITSAR",
+      "name": "Amritsar",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "JALANDHAR",
+      "name": "Jalandhar",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "LUDHIANA",
+      "name": "Ludhiana",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "PATIALA",
+      "name": "Patiala",
+      "stateCode": "PG",
+      "active": true
+    }
+  ]
+}

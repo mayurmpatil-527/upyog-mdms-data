@@ -2158,6 +2158,18 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": false,
       "isActive": true
+    },
+    {
+      "businessService": "WMS.ACTION_PLAN",
+      "code": "WMS.ACTION_PLAN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "billGineiURL": "",
+      "demandUpdateTime": 86400000
     }
 
     

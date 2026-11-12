@@ -841,6 +841,18 @@
         {
             "format": "GC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "garbage-service.receipt.id"
+        },
+        {
+            "format": "WMS-AP-[cy:yyyy-MM-dd]-[SEQ_EG_WMS_AP_APPLICATION]",
+            "idname": "wms.actionplan.applicationnumber"
+        },
+        {
+            "format": "WMS-APN-[fy:yyyy-yy]-[SEQ_EG_WMS_AP_NUMBER]",
+            "idname": "wms.actionplan.number"
+        },
+        {
+            "format": "WMS-CMP-[SEQ_EG_WMS_AP_COMPONENT]",
+            "idname": "wms.actionplan.componentnumber"
         }
     ]
 }

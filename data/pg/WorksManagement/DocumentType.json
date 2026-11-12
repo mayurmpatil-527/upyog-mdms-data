@@ -1,0 +1,114 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "DocumentType": [
+    {
+      "code": "ACTION_PLAN",
+      "name": "Approved Action Plan",
+      "owner": "ACTION_PLAN",
+      "required": true,
+      "supporting": false,
+      "allowedFormats": [
+        "pdf"
+      ],
+      "maxSizeMB": 20,
+      "active": true
+    },
+    {
+      "code": "ADMIN_SANCTION",
+      "name": "Administrative Sanction",
+      "owner": "ACTION_PLAN",
+      "required": true,
+      "supporting": false,
+      "allowedFormats": [
+        "pdf"
+      ],
+      "maxSizeMB": 20,
+      "active": true
+    },
+    {
+      "code": "TECHNICAL_SANCTION",
+      "name": "Technical Sanction",
+      "owner": "ACTION_PLAN",
+      "required": false,
+      "supporting": false,
+      "allowedFormats": [
+        "pdf"
+      ],
+      "maxSizeMB": 20,
+      "active": true
+    },
+    {
+      "code": "APPROVAL_PROCEEDING",
+      "name": "Approval Proceedings",
+      "owner": "ACTION_PLAN",
+      "required": false,
+      "supporting": true,
+      "allowedFormats": [
+        "pdf"
+      ],
+      "maxSizeMB": 20,
+      "active": true
+    },
+    {
+      "code": "COUNCIL_APPROVAL",
+      "name": "Meeting / Council Approval",
+      "owner": "ACTION_PLAN",
+      "required": false,
+      "supporting": true,
+      "allowedFormats": [
+        "pdf"
+      ],
+      "maxSizeMB": 20,
+      "active": true
+    },
+    {
+      "code": "OTHER_APPROVAL",
+      "name": "Other Approval",
+      "owner": "ACTION_PLAN",
+      "required": false,
+      "supporting": true,
+      "allowedFormats": [
+        "pdf"
+      ],
+      "maxSizeMB": 20,
+      "active": true
+    },
+    {
+      "code": "REFERENCE",
+      "name": "Reference Document / Others",
+      "owner": "ACTION_PLAN",
+      "required": false,
+      "supporting": true,
+      "allowedFormats": [
+        "pdf"
+      ],
+      "maxSizeMB": 20,
+      "active": true
+    },
+    {
+      "code": "RECOMMENDATION",
+      "name": "Recommendation Document",
+      "owner": "RECOMMENDATION",
+      "required": false,
+      "supporting": false,
+      "allowedFormats": [
+        "pdf"
+      ],
+      "maxSizeMB": 5,
+      "active": true
+    },
+    {
+      "code": "COMPONENT_SUPPORTING",
+      "name": "Component Supporting Document",
+      "owner": "COMPONENT",
+      "required": false,
+      "supporting": false,
+      "allowedFormats": [
+        "pdf"
+      ],
+      "maxSizeMB": 5,
+      "active": true
+    }
+  ]
+}

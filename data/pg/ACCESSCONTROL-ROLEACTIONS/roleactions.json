@@ -38479,6 +38479,96 @@
     "actionid": 4723,
     "actioncode": "",
     "tenantId": "pg"
-  }    
+  },
+  {
+    "rolecode": "WMS_CREATOR",
+    "actionid": 4724,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_CREATOR",
+    "actionid": 4725,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_CREATOR",
+    "actionid": 4726,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_CREATOR",
+    "actionid": 4727,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_CREATOR",
+    "actionid": 4728,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VERIFIER",
+    "actionid": 4725,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VERIFIER",
+    "actionid": 4726,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VERIFIER",
+    "actionid": 4727,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_APPROVER",
+    "actionid": 4725,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_APPROVER",
+    "actionid": 4726,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_APPROVER",
+    "actionid": 4727,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VIEWER",
+    "actionid": 4726,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VIEWER",
+    "actionid": 4727,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 4728,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 4729,
+    "actioncode": "",
+    "tenantId": "pg"
+  }
   ]
 }
