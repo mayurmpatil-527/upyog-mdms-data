@@ -30451,6 +30451,30 @@
   "serviceCode": "works-management-calculator",
   "code": "null",
   "path": ""
+},
+{
+  "id": 4730,
+  "name": "WMS Report Metadata",
+  "url": "/report/rainmaker-wms/metadata/_get",
+  "displayName": "WMS Report Metadata",
+  "orderNumber": 1,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4731,
+  "name": "WMS Report Data",
+  "url": "/report/rainmaker-wms/_get",
+  "displayName": "WMS Report Data",
+  "orderNumber": 2,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
 }
   ]
 }
