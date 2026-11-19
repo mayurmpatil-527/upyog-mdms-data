@@ -38581,18 +38581,6 @@
     "actionid": 4731,
     "actioncode": "",
     "tenantId": "pg"
-  },
-  {
-    "rolecode": "SUPERUSER",
-    "actionid": 4730,
-    "actioncode": "",
-    "tenantId": "pg"
-  },
-  {
-    "rolecode": "SUPERUSER",
-    "actionid": 4731,
-    "actioncode": "",
-    "tenantId": "pg"
   }
   ]
 }
