@@ -117,6 +117,12 @@
       "emailId": "assistantdirectorlekha@gmail.com",
 	    "NodalOfficerName": "Amit Kumar Singh",
       "active": true
+    },
+    {
+      "stateCode": "Odisha",
+      "emailId": "tasu.hudd@gmail.com",
+	    "NodalOfficerName": "Prashant Puhan",
+      "active": true
     }
 ]
 }
