@@ -30475,6 +30475,51 @@
   "serviceCode": "report",
   "code": "null",
   "path": ""
+},
+{
+  "id": 4732,
+  "name": "WMSApprovalAuditHistory",
+  "url": "url",
+  "displayName": "Approval and Audit History",
+  "orderNumber": 1,
+  "parentModule": "rainmaker-wms",
+  "enabled": true,
+  "serviceCode": "WMS",
+  "code": "null",
+  "path": "WMS.Reports.WMSApprovalAuditHistory",
+  "navigationURL": "/upyog-ui/employee/wms/WMSApprovalAuditHistory",
+  "leftIcon": "action:assignment",
+  "rightIcon": ""
+},
+{
+  "id": 4733,
+  "name": "WMSFundingSummary",
+  "url": "url",
+  "displayName": "Funding-wise Summary",
+  "orderNumber": 2,
+  "parentModule": "rainmaker-wms",
+  "enabled": true,
+  "serviceCode": "WMS",
+  "code": "null",
+  "path": "WMS.Reports.WMSFundingSummary",
+  "navigationURL": "/upyog-ui/employee/wms/WMSFundingSummary",
+  "leftIcon": "action:assignment",
+  "rightIcon": ""
+},
+{
+  "id": 4734,
+  "name": "WMSComponentSummary",
+  "url": "url",
+  "displayName": "Component-wise Summary",
+  "orderNumber": 3,
+  "parentModule": "rainmaker-wms",
+  "enabled": true,
+  "serviceCode": "WMS",
+  "code": "null",
+  "path": "WMS.Reports.WMSComponentSummary",
+  "navigationURL": "/upyog-ui/employee/wms/WMSComponentSummary",
+  "leftIcon": "action:assignment",
+  "rightIcon": ""
 }
   ]
 }
