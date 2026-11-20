@@ -30454,30 +30454,6 @@
 },
 {
   "id": 4730,
-  "name": "WMS Report Metadata",
-  "url": "/report/rainmaker-wms/metadata/_get",
-  "displayName": "WMS Report Metadata",
-  "orderNumber": 1,
-  "parentModule": "",
-  "enabled": true,
-  "serviceCode": "report",
-  "code": "null",
-  "path": ""
-},
-{
-  "id": 4731,
-  "name": "WMS Report Data",
-  "url": "/report/rainmaker-wms/_get",
-  "displayName": "WMS Report Data",
-  "orderNumber": 2,
-  "parentModule": "",
-  "enabled": true,
-  "serviceCode": "report",
-  "code": "null",
-  "path": ""
-},
-{
-  "id": 4732,
   "name": "WMSApprovalAuditHistory",
   "url": "url",
   "displayName": "Approval and Audit History",
@@ -30490,6 +30466,30 @@
   "navigationURL": "/upyog-ui/employee/wms/WMSApprovalAuditHistory",
   "leftIcon": "action:assignment",
   "rightIcon": ""
+},
+{
+  "id": 4731,
+  "name": "WMSApprovalAuditHistory",
+  "url": "/report/rainmaker-wms/WMSApprovalAuditHistory/metadata/_get",
+  "displayName": "rainmaker-wms-WMSApprovalAuditHistory",
+  "orderNumber": 1,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4732,
+  "name": "WMSApprovalAuditHistory",
+  "url": "/report/rainmaker-wms/WMSApprovalAuditHistory/_get",
+  "displayName": "rainmaker-wms-WMSApprovalAuditHistory",
+  "orderNumber": 1,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
 },
 {
   "id": 4733,
@@ -30508,6 +30508,30 @@
 },
 {
   "id": 4734,
+  "name": "WMSFundingSummary",
+  "url": "/report/rainmaker-wms/WMSFundingSummary/metadata/_get",
+  "displayName": "rainmaker-wms-WMSFundingSummary",
+  "orderNumber": 2,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4735,
+  "name": "WMSFundingSummary",
+  "url": "/report/rainmaker-wms/WMSFundingSummary/_get",
+  "displayName": "rainmaker-wms-WMSFundingSummary",
+  "orderNumber": 2,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4736,
   "name": "WMSComponentSummary",
   "url": "url",
   "displayName": "Component-wise Summary",
@@ -30520,6 +30544,30 @@
   "navigationURL": "/upyog-ui/employee/wms/WMSComponentSummary",
   "leftIcon": "action:assignment",
   "rightIcon": ""
+},
+{
+  "id": 4737,
+  "name": "WMSComponentSummary",
+  "url": "/report/rainmaker-wms/WMSComponentSummary/metadata/_get",
+  "displayName": "rainmaker-wms-WMSComponentSummary",
+  "orderNumber": 3,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4738,
+  "name": "WMSComponentSummary",
+  "url": "/report/rainmaker-wms/WMSComponentSummary/_get",
+  "displayName": "rainmaker-wms-WMSComponentSummary",
+  "orderNumber": 3,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
 }
   ]
 }

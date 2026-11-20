@@ -38599,6 +38599,30 @@
     "actionid": 4734,
     "actioncode": "",
     "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VIEWER",
+    "actionid": 4735,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VIEWER",
+    "actionid": 4736,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VIEWER",
+    "actionid": 4737,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VIEWER",
+    "actionid": 4738,
+    "actioncode": "",
+    "tenantId": "pg"
   }
   ]
 }
