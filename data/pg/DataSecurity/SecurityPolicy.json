@@ -1663,6 +1663,44 @@
           "attributeAccessList": []
         }
       ]
+    },
+    {
+      "model": "WMSApprovalAuditHistory",
+      "uniqueIdentifier": {
+        "name": "application_number",
+        "jsonPath": "/application_number"
+      },
+      "attributes": [
+        {
+          "name": "performed_by_role",
+          "jsonPath": "performed_by_role",
+          "patternId": "002",
+          "defaultVisibility": "NONE"
+        },
+        {
+          "name": "verifier_approver_name",
+          "jsonPath": "verifier_approver_name",
+          "patternId": "002",
+          "defaultVisibility": "NONE"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "WMS_VIEWER"
+          ],
+          "attributeAccessList": [
+            {
+              "attribute": "performed_by_role",
+              "firstLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "verifier_approver_name",
+              "firstLevelVisibility": "PLAIN"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
