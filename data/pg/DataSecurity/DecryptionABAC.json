@@ -1825,6 +1825,28 @@
           ]
         }
       ]
-    }	  
+    },
+    {
+      "key": "WMSApprovalAuditHistory",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "WMS_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/performed_by_role"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/verifier_approver_name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
