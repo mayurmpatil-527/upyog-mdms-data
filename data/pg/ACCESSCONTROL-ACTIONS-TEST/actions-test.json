@@ -30463,7 +30463,7 @@
   "serviceCode": "WMS",
   "code": "null",
   "path": "WMS.Reports.WMSApprovalAuditHistory",
-  "navigationURL": "/upyog-ui/employee/wms/WMSApprovalAuditHistory",
+  "navigationURL": "/works-ui/employee/report/rainmaker-wms/WMSApprovalAuditHistory",
   "leftIcon": "action:assignment",
   "rightIcon": ""
 },
@@ -30502,7 +30502,7 @@
   "serviceCode": "WMS",
   "code": "null",
   "path": "WMS.Reports.WMSFundingSummary",
-  "navigationURL": "/upyog-ui/employee/wms/WMSFundingSummary",
+  "navigationURL": "/works-ui/employee/report/rainmaker-wms/WMSFundingSummary",
   "leftIcon": "action:assignment",
   "rightIcon": ""
 },
@@ -30541,7 +30541,7 @@
   "serviceCode": "WMS",
   "code": "null",
   "path": "WMS.Reports.WMSComponentSummary",
-  "navigationURL": "/upyog-ui/employee/wms/WMSComponentSummary",
+  "navigationURL": "/works-ui/employee/report/rainmaker-wms/WMSComponentSummary",
   "leftIcon": "action:assignment",
   "rightIcon": ""
 },
