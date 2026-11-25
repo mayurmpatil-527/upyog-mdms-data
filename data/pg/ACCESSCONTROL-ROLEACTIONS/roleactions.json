@@ -38623,6 +38623,30 @@
     "actionid": 4738,
     "actioncode": "",
     "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_CREATOR",
+    "actionid": 2155,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VERIFIER",
+    "actionid": 2155,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_APPROVER",
+    "actionid": 2155,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WMS_VIEWER",
+    "actionid": 2155,
+    "actioncode": "",
+    "tenantId": "pg"
   }
   ]
 }
