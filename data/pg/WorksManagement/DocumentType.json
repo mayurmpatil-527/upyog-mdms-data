@@ -6,7 +6,7 @@
       "code": "ACTION_PLAN",
       "name": "Approved Action Plan",
       "owner": "ACTION_PLAN",
-      "required": true,
+      "required": false,
       "supporting": false,
       "allowedFormats": [
         "pdf"
@@ -18,7 +18,7 @@
       "code": "ADMIN_SANCTION",
       "name": "Administrative Sanction",
       "owner": "ACTION_PLAN",
-      "required": true,
+      "required": false,
       "supporting": false,
       "allowedFormats": [
         "pdf"
